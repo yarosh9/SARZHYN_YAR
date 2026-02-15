@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1080"
+   height="1920"
+   viewBox="0 0 1080 1920"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="strip7.svg"
+   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.4"
+     inkscape:cx="538.75"
+     inkscape:cy="960"
+     inkscape:window-width="1280"
+     inkscape:window-height="971"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18" />
+  <defs
+     id="defs12">
+    <linearGradient
+       id="lg_000">
+      <stop
+         offset="0"
+         style="stop-color:#996;stop-opacity:1"
+         id="stop1" />
+      <stop
+         offset="1"
+         style="stop-color:#ffd;stop-opacity:1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="lg_001">
+      <stop
+         offset="0.000"
+         style="stop-color:#fff;stop-opacity:1"
+         id="stop3" />
+      <stop
+         offset="0.005"
+         style="stop-color:#fff;stop-opacity:1"
+         id="stop4" />
+      <stop
+         offset="0.005"
+         style="stop-color:#fff;stop-opacity:0"
+         id="stop5" />
+      <stop
+         offset="1.000"
+         style="stop-color:#fff;stop-opacity:0"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="lg_002">
+      <stop
+         offset="0.000"
+         style="stop-color:#000;stop-opacity:1"
+         id="stop7" />
+      <stop
+         offset="0.100"
+         style="stop-color:#000;stop-opacity:1"
+         id="stop8" />
+      <stop
+         offset="0.100"
+         style="stop-color:#fff;stop-opacity:0"
+         id="stop9" />
+      <stop
+         offset="0.900"
+         style="stop-color:#fff;stop-opacity:0"
+         id="stop10" />
+      <stop
+         offset="0.900"
+         style="stop-color:#000;stop-opacity:1"
+         id="stop11" />
+      <stop
+         offset="1.000"
+         style="stop-color:#000;stop-opacity:1"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       id="lg_guida"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="0.3333"
+       spreadMethod="repeat"
+       xlink:href="#lg_001" />
+    <linearGradient
+       id="lg_guidb"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="0.3333"
+       spreadMethod="repeat"
+       xlink:href="#lg_002" />
+    <linearGradient
+       id="lg_guidc"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="0.0333"
+       spreadMethod="reflect"
+       xlink:href="#lg_000" />
+  </defs>
+  <rect
+     y="-1080"
+     x="0"
+     height="1080"
+     width="1920"
+     style="fill:url(#lg_000);stroke:none;opacity:1"
+     transform="rotate(90)"
+     id="rect12" />
+  <rect
+     y="-1080"
+     x="0"
+     height="1080"
+     width="1920"
+     style="fill:url(#lg_guidc);stroke:none;opacity:0.05"
+     transform="rotate(90)"
+     id="rect13" />
+  <rect
+     y="0"
+     x="0"
+     height="1920"
+     width="1080"
+     style="fill:url(#lg_guidc);stroke:none;opacity:0.05"
+     transform="rotate(0)"
+     id="rect14" />
+  <rect
+     y="0"
+     x="0"
+     height="1920"
+     width="1080"
+     style="fill:url(#lg_guida);stroke:none;opacity:0.5"
+     transform="rotate(0)"
+     id="rect15" />
+  <rect
+     y="-1080"
+     x="0"
+     height="1080"
+     width="1920"
+     style="fill:url(#lg_guida);stroke:none;opacity:0.5"
+     transform="rotate(90)"
+     id="rect16" />
+  <rect
+     y="0"
+     x="0"
+     height="1920"
+     width="1080"
+     style="fill:url(#lg_guidb);stroke:none;opacity:0.03"
+     transform="rotate(0)"
+     id="rect17" />
+  <rect
+     y="-1080"
+     x="0"
+     height="1080"
+     width="1920"
+     style="fill:url(#lg_guidb);stroke:none;opacity:0.05"
+     transform="rotate(90)"
+     id="rect18" />
+</svg>
