@@ -1,4 +1,5 @@
 #Sarzhin Yar
+
 ### by Igor Yaroshenko 
 [author verification](https://line2.biz/about_me.json)
 
@@ -21,3 +22,4 @@ Identity verified by RS_973 Protocol: [Provenance Layer](https://line2.biz/rs_97
 #### License
 
 This work, including all visual assets and the Semantic Metadata Protocol, is licensed under a **Creative Commons Attribution-NoDerivatives (CC BY-ND)**
+
