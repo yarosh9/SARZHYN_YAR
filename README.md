@@ -1,9 +1,22 @@
-#Sarzhin Yar
+![Preview](draw_0020.png) 
+
+# Sarzhin Yar
 ### by Igor Yaroshenko 
 [author verification](https://line2.biz/about_me.json)
 
 
 [location 50.02669041948611, 36.231182328836404](https://maps.app.goo.gl/GBU4JKx31jqzQ8VK8)
+
+---
+
+**Status:** Deep Dreaming / Archival
+**Focus:** Metaphysical Landscapes & Oneiric Cartography
+A real park in Kharkiv and a dream-state territory where nature meets metaphysics. A place where water flows free and crows bring gifts. Influenced by C.G. Jung's dream analysis, this project translates oneiric spaces into vector geometry. It is an exercise in mastering the Bézier curve to map the architecture of dreams.
+
+* **Core Data:** [mlsmile](https://github.com/yarosh9/mlsmile)
+* **Web Interface:** [grph](https://yarosh9.github.io/mlsmile/)
+* **Provenance Layer** [Sarzhin Yar](https://line2.biz/sarzhin_yar)
+
 ---
 
 # Mona Lisa's smile
@@ -13,8 +26,8 @@ I had a dream (31.10.2025). I came to Sarzhyn Yar (50.02669041948611, 36.2311823
 
 ---
 
-# svg, vector, digital copy of Paul Klee,
-Stadt mit den drei Kuppeln, Paul Klee. 1914.
+# copy of Paul Klee, Stadt mit den drei Kuppeln, Paul Klee. 1914.
+svg, vector, digital copy
 
 Some artists seemed to foresee the rise of vector graphics — Fernand Léger, Joan Miró, and my favorite, Paul Klee.
 
@@ -35,6 +48,4 @@ Identity verified by RS_973 Protocol: [Provenance Layer](https://line2.biz/rs_97
 ---
 © 2026 Igor Yaroshenko. All rights reserved.
 #### License
-This work, including all visual assets and the Semantic Metadata Protocol, is licensed under a **Creative Commons Attribution-NoDerivatives (CC BY-ND)**
-=======
-
+This work, including all visual assets and the Semantic Metadata Protocol, is licensed under a **Creative Commons Attribution-NoDerivatives (CC BY-ND)**.  
