@@ -2,12 +2,29 @@
 ### by Igor Yaroshenko 
 [author verification](https://line2.biz/about_me.json)
 
+
+[location 50.02669041948611, 36.231182328836404](https://maps.app.goo.gl/GBU4JKx31jqzQ8VK8)
 ---
 
 # Mona Lisa's smile
 svg graphic, portrait of a horse named Elizabeth
 
 I had a dream (31.10.2025). I came to Sarzhyn Yar (50.02669041948611, 36.231182328836404), to the spring, for water. It was crowded. A young, beautiful horse named Elizabeth was standing a little way off. She stood there and smiled. She didn't understand why people were collecting water in vessels. After all, water confined in a vessel is like being in prison. And the free-flowing water running in the spring is much tastier and healthier.
+
+---
+
+# svg, vector, digital copy of Paul Klee,
+Stadt mit den drei Kuppeln, Paul Klee. 1914.
+
+Some artists seemed to foresee the rise of vector graphics — Fernand Léger, Joan Miró, and my favorite, Paul Klee.
+
+For years, I dreamed of recreating one of Klee’s works in vector form, but kept postponing it. Finally, the time has come — and I did it. While working on the copy, I felt as if I was in dialogue with the author himself, and I’m convinced he would have been fascinated by the computer and vector graphics as a creative tool.
+
+The piece was recreated in SVG using Inkscape. All colors were taken directly from Klee’s palette, though in the end I had to harmonize them by eye. I used only linear gradients, even though the original seemed to call for radial gradients and meshes.
+
+Now we can see the pure idea — free from the artifacts of watercolor paper, brush, and paint. I believe this is exactly how the author intended it.
+
+And yes… my soul is finally at peace.
 
 ---
 
