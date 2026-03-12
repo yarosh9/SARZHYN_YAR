@@ -1,6 +1,6 @@
 ![Preview](draw_0020.png) 
 
-# Sarzhin Yar
+# Sarzhyn Yar
 ### by Igor Yaroshenko 
 [author verification](https://line2.biz/about_me.json)
 
@@ -15,7 +15,7 @@ A real park in Kharkiv and a dream-state territory where nature meets metaphysic
 
 * **Core Data:** [mlsmile](https://github.com/yarosh9/mlsmile)
 * **Web Interface:** [grph](https://yarosh9.github.io/mlsmile/)
-* **Provenance Layer** [Sarzhin Yar](https://line2.biz/sarzhin_yar)
+* **Provenance Layer** [Sarzhyn Yar](https://line2.biz/sarzhyn_yar)
 
 ---
 
