@@ -2,7 +2,7 @@
   "id": "SARZHYN_YAR",
   "status": "active_development",
   "focus": "Geo-spatial art & environmental structures",
-  "provenance_link": "https://line2.biz/arzhyn_yar/data/sarzhyn.json",
+  "provenance_link": "https://line2.biz/sarzhyn_yar/data/sarzhyn.json",
   "dynamic_assets": "https://github.com/yarosh9/SARZHYN_YAR/tree/master/*.svg",
   "layers": {
     "data": "https://github.com/yarosh9/SARZHYN_YAR/",
