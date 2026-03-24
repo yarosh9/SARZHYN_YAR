@@ -33,7 +33,7 @@ Technical mapping of dream-state architecture and inter-species interaction zone
 
 | Node ID | SHA-256 Hash Signature | Activation | Status |
 | :--- | :--- | :---: | :--- |
-| **4AI_SC_CN** | `plain-text | 2026-01-13 | **SYNCED** |
+| **4AI_SC_CN** | plain-text | 2026-01-13 | **SYNCED** |
 | **Node_01** | `e3b0c442...1b01` | 2025-10-31 | **ACTIVE** |
 | **Node_02** | `f85d12d9...c2a4` | 2026-03-07 | **SYNCED** |
 | **Node_03** | `...` | `...` | *PENDING* |

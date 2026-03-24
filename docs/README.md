@@ -1,21 +1,13 @@
-![Preview](img/draw_0020.png) 
-
-# Sarzhyn Yar WEB
-### by Igor Yaroshenko 
-[author verification](https://line2.biz/about_me.json)
-
-
-[location 50.02669041948611, 36.231182328836404](https://maps.app.goo.gl/GBU4JKx31jqzQ8VK8)
-
 ---
-
-**Status:** Deep Dreaming / Archival
-**Focus:** Metaphysical Landscapes & Oneiric Cartography
-A real park in Kharkiv and a dream-state territory where nature meets metaphysics. A place where water flows free and crows bring gifts. Influenced by C.G. Jung's dream analysis, this project translates oneiric spaces into vector geometry. It is an exercise in mastering the Bézier curve to map the architecture of dreams.
-
-* **Core Data:** [mlsmile](https://github.com/yarosh9/mlsmile)
-* **Web Interface:** [grph](https://yarosh9.github.io/mlsmile/)
-* **Provenance Layer** [Sarzhyn Yar](https://line2.biz/sarzhyn_yar)
+### [ Node Navigation ]
+* ***Status:** [ SC: 000 | SN: 000 ]
+* ***Global Root:** [line2.biz](https://line2.biz/) / [GitHub Index](https://github.com/yarosh9/)
+* **Project Root:** [SARZHYN_YAR](https://github.com/yarosh9/SARZHYN_YAR) / [Site Context](https://line2.biz/sarzhyn_yar/)
+* **Protocol:** [Semantic-Metadata-Protocol v.1.0](https://github.com/yarosh9/yarosh9/blob/master/Semantic-Metadata-Protocol.md)
+* **Current Node:** `/docs/
+* **Type:** `Knowledge Base / Wiki`
+* **Vector:** [ Oneiric Narratives -> Jungian Archetypes -> Neuro-Symbiotic Game ]
+---
 
 ---
 
