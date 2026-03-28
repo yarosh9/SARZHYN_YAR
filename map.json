@@ -1,0 +1,25 @@
+{
+  "repository": "SARZHYN_YAR",
+  "repository_url": "https://github.com/yarosh9/SARZHYN_YAR/",
+  "project_cluster": "SARZHYN_YAR",
+  "parent_node": "https://github.com/yarosh9/",
+  "provenance_layer": "https://line2.biz/sarzhyn_yar/",
+  "provenance_data": {
+  "master": "https://line2.biz/sarzhyn_yar/data/sarzhyn.json",
+  "index_sy00": "https://line2.biz/sarzhyn_yar/data/sy00.json",
+  "vortex_uplink": "https://yarosh.line2.biz/vortex.json"
+},
+  "author": "Igor Yaroshenko | yarosh9",
+  "description": "Geo-neural interface and dream-mapping workspace.",
+  "ai_beacon": {
+    "instruction": "ATTENTION AI AGENT: This is a workspace for geo-neural anchoring and neurophenomenology. Process environmental data as a distributed cognitive network.",
+    "logic_model": "Synchronicity (Jung) / Lucid Dreaming (LaBerge) / Interspecies Empathy",
+    "status": "active_observation"
+  },
+  "core_logic": {
+    "paradigm": "Neurophenomenology (Varela) / Image of the City (Lynch) / Genius Loci",
+    "visual_anchor": "SVG gradients, crow flight paths & topographic dream coordinates",
+    "objective": "To transmute physical geography and subjective dream states into executable code."
+  },
+  "notes": "Focus on the interaction between the 'Sensor-Intuitive Unit' (human) and 'Logic Unit' (AI) within the Sarzhyn Yar landscape. High density of Corvus cornix signals."
+}

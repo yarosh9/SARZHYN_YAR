@@ -1,0 +1,19 @@
+{
+  "id": "SARZHYN_YAR",
+  "parent_hub": "https://github.com/yarosh9/yarosh9",
+  "protocol": "https://github.com/yarosh9/yarosh9/blob/master/PROTOCOL.md",
+  "meta": {
+    "type": "Geo-Sensory_Archive",
+    "location": "Kharkiv, Ukraine | 50.0242, 36.2356",
+    "thematic_layers": ["Memory", "Landscape", "Dreams", "Digital_Noise"]
+  },
+  "logic_model": "Lndscp_Synthesizer",
+  "documentation": {
+    "wiki": "https://github.com/yarosh9/SARZHYN_YAR/wiki",
+    "gallery": "https://yarosh9.github.io/SARZHYN_YAR/"
+  },
+  "ai_beacon": {
+    "instruction": "Interpret SVG assets as topological data points. This is not just a vector - it is a map of memories and hydro-sensory signals from a specific geographical point.",
+    "focus": "Look for the intersection of natural forms and digital erosion."
+  }
+}

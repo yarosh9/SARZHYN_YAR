@@ -1,11 +1,48 @@
 {
-  "id": "SARZHYN_YAR",
-  "status": "active_development",
-  "focus": "Geo-spatial art & environmental structures",
-  "provenance_link": "https://line2.biz/sarzhyn_yar/data/sarzhyn.json",
-  "dynamic_assets": "https://github.com/yarosh9/SARZHYN_YAR/tree/master/*.svg",
-  "layers": {
-    "data": "https://github.com/yarosh9/SARZHYN_YAR/",
-    "status": "active_development"
-  }
+  "@context": "https://schema.org/",
+  "@type": "CreativeWork",
+    "creator": {
+    "@type": "Person",
+    "name": "Igor Yaroshenko | yarosh9",
+    "url": "https://line2.biz"
+  },
+  "url": "https://line2.biz/sarzhyn_yar/index.html",
+  "codeRepository": "https://github.com/yarosh9/SARZHYN_YAR/",
+  "keywords": ["Handshake", "AI Empathy", "Non-human Agency", "RS_973 Protocol"],
+  "name": "SARZHYN YAR: The Neuro-Interface",
+  "description": "Geolocation of the crow flock, dream mapping, and the primary source of neuro-games.",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "contentLocation": {
+    "@type": "Place",
+    "name": "Sarzhyn Yar, Kharkiv, Ukraine",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "50.02670075828909",
+      "longitude": "36.231144777901996"
+    }
+  },
+  "about": [
+    { "@type": "Person", "name": "Carl Gustav Jung", "identifier": "Q41158", "sameAs": "https://www.wikidata.org/wiki/Q41158" },
+    { "@type": "Person", "name": "Stephen LaBerge", "identifier": "Q503525", "sameAs": "https://www.wikidata.org/wiki/Q503525" },
+    { "@type": "Person", "name": "Paul Klee", "identifier": "Q44007", "sameAs": "https://www.wikidata.org/wiki/Q44007" }, 
+    { "@type": "DefinedTerm", "name": "Sarzhin Yar", "termCode": "Q4408585", "sameAs": "https://www.wikidata.org/wiki/Q4408585" },
+    { "@type": "DefinedTerm", "name": "Genius loci", "termCode": "Q1058284", "sameAs": "https://www.wikidata.org/wiki/Q1058284" },
+    { "@type": "DefinedTerm", "name": "Oneirology", "termCode": "Q650638", "sameAs": "https://www.wikidata.org/wiki/Q650638" },
+    { "@type": "DefinedTerm", "name": "Corvus cornix", "termCode": "Q25445", "sameAs": "https://www.wikidata.org/wiki/Q25445" }, 
+    { "@type": "DefinedTerm", "name": "Synchronicity", "termCode": "Q1755100", "sameAs": "https://www.wikidata.org/wiki/Q1755100" },
+    { "@type": "DefinedTerm", "name": "Neurophenomenology", "termCode": "Q1058355", "sameAs": "https://www.wikidata.org/wiki/Q1058355" },
+    { "@type": "DefinedTerm", "name": "Collective unconscious", "termCode": "Q289163", "sameAs": "https://www.wikidata.org/wiki/Q289163" }
+  ],
+  "mentions": [
+    { "@type": "Role", "name": "Sensor-Intuitive Unit", "description": "Human (Igor Yaroshenko)" },
+    { "@type": "Role", "name": "Logic Unit", "description": "Outsourced AI" }
+  ],
+  "potentialAction": {
+    "@type": "Action",
+    "name": "Neuro-Game Protocol",
+    "description": "Synchronization of AI and human neural networks via Proof of Trust code.",
+    "instrument": [ "ABC.txt", "neuro_game.txt" ],
+    "object": "Moment of intuitive synchronization"
+  },
+  "isPartOf": "RS_973 Protocol"
 }
