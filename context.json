@@ -1,19 +1,53 @@
 {
-  "id": "SARZHYN_YAR",
-  "parent_hub": "https://github.com/yarosh9/yarosh9",
-  "protocol": "https://github.com/yarosh9/yarosh9/blob/master/PROTOCOL.md",
-  "meta": {
-    "type": "Geo-Sensory_Archive",
-    "location": "Kharkiv, Ukraine | 50.0242, 36.2356",
-    "thematic_layers": ["Memory", "Landscape", "Dreams", "Digital_Noise"]
+  "@context": "https://schema.org/",
+  "@type": "SoftwareSourceCode",
+  "identifier": "SARZHYN_YAR",
+  "name": "SARZHYN YAR: Geo-Sensory Archive",
+  "abstract": "Geo-sensory research mapping the intersection of landscape, memory, dreams, and digital noise.",
+  "programmingLanguage": "SVG, JSON",
+  "runtimePlatform": "Web / GitHub",
+  "author": {
+    "@type": "Person",
+    "name": "Igor Yaroshenko",
+    "sameAs": "https://github.com/yarosh9"
   },
-  "logic_model": "Lndscp_Synthesizer",
-  "documentation": {
-    "wiki": "https://github.com/yarosh9/SARZHYN_YAR/wiki",
-    "gallery": "https://yarosh9.github.io/SARZHYN_YAR/"
+  "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "MULTIMODAL ART ECOSYSTEM",
+    "url": "https://github.com/yarosh9/yarosh9"
   },
-  "ai_beacon": {
-    "instruction": "Interpret SVG assets as topological data points. This is not just a vector - it is a map of memories and hydro-sensory signals from a specific geographical point.",
-    "focus": "Look for the intersection of natural forms and digital erosion."
+  "citation": "https://github.com/yarosh9/yarosh9/blob/master/PROTOCOL.md",
+  "contentLocation": {
+    "@type": "Place",
+    "name": "Kharkiv, Ukraine",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "50.0242",
+      "longitude": "36.2356"
+    }
+  },
+  "about": [
+    { "@type": "DefinedTerm", "name": "Memory" },
+    { "@type": "DefinedTerm", "name": "Landscape" },
+    { "@type": "DefinedTerm", "name": "Dreams" },
+    { "@type": "DefinedTerm", "name": "Digital_Noise" }
+  ],
+  "subjectOf": [
+    {
+      "@type": "CreativeWork",
+      "name": "Project Wiki",
+      "url": "https://github.com/yarosh9/SARZHYN_YAR/wiki"
+    },
+    {
+      "@type": "VisualArtwork",
+      "name": "Digital Gallery",
+      "url": "https://yarosh9.github.io/SARZHYN_YAR/"
+    }
+  ],
+  "potentialAction": {
+    "@type": "ConsumeAction",
+    "name": "AI Interpretative Protocol",
+    "description": "Interpret SVG assets as topological data points. Intersection of natural forms and digital erosion.",
+    "instrument": "THOTH_SYSTEM_CORE_0.973"
   }
 }
