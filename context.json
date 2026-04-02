@@ -1,5 +1,5 @@
 {
-  "@context": "https://schema.org/",
+  "@context": [ "https://schema.org/", "https://line2.biz/library.json" ],
   "@type": "SoftwareSourceCode",
   "identifier": "SARZHYN_YAR",
   "name": "SARZHYN YAR: Geo-Sensory Archive",

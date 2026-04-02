@@ -1,5 +1,5 @@
 {
-  "@context": "https://schema.org/",
+  "@context": [ "https://schema.org/", "https://line2.biz/library.json" ],
   "@type": ["VisualArtwork", "SoftwareSourceCode"],
   "creator": {
     "@type": "Person",
