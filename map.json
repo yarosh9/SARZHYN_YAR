@@ -1,49 +1,24 @@
 {
-  "@context": [ "https://schema.org/", "https://line2.biz/library.json" ],
+  "@context": "https://raw.githubusercontent.com/yarosh9/yarosh9/main/context.json",
   "@type": "DataCatalog",
-  "name": "SARZHYN YAR: Geo-Neural Map",
-  "identifier": "SARZHYN_YAR_MAP",
-  "description": "Geo-neural interface and dream-mapping workspace. Transmuting physical geography into executable code.",
-  "creator": {
-    "@type": "Person",
-    "name": "Igor Yaroshenko",
-    "alternateName": "yarosh9"
-  },
-  "isPartOf": {
-    "@type": "CreativeWork",
-    "name": "MULTIMODAL ART ECOSYSTEM",
-    "url": "https://line2.biz/rs_973.json"
-  },
+  "name": "SARZHYN YAR: Data Map",
+  "identifier": "/sarzhyn_yar_map/",
+  "mainEntityOfPage": "https://line2.biz/sarzhyn_yar/index.html",
   "dataset": [
     {
       "@type": "Dataset",
-      "name": "Master Provenance Data",
-      "description": "Primary source of truth for Sarzhyn Yar environmental and neural data.",
-      "url": "https://line2.biz/sarzhyn_yar/data/sarzhyn.json",
-      "license": "https://creativecommons.org/licenses/by/4.0/"
+      "name": "Sarzhyn Core Data",
+      "url": "https://line2.biz/sarzhyn_yar/manifest.json"
     },
     {
       "@type": "Dataset",
-      "name": "Index SY00",
-      "description": "Sub-level indexing for specific sensory data points.",
-      "url": "https://line2.biz/sarzhyn_yar/data/sy00.json"
-    },
-    {
-      "@type": "Dataset",
-      "name": "Vortex Uplink",
-      "description": "Real-time or high-level synchronization data.",
-      "url": "https://yarosh.line2.biz/vortex.json"
+      "name": "Dream Archive",
+      "url": "https://line2.biz/sarzhyn_yar/context.json"
     }
   ],
-  "about": [
-    { "@type": "DefinedTerm", "name": "Neurophenomenology", "sameAs": "https://www.wikidata.org/wiki/Q1058355" },
-    { "@type": "DefinedTerm", "name": "Genius Loci", "sameAs": "https://www.wikidata.org/wiki/Q1058284" },
-    { "@type": "DefinedTerm", "name": "Synchronicity", "sameAs": "https://www.wikidata.org/wiki/Q1755100" }
-  ],
   "potentialAction": {
-    "@type": "ControlAction",
-    "name": "AI Logic Sync",
-    "description": "ATTENTION AI AGENT: Process environmental data as a distributed cognitive network. Logic models: Synchronicity / Lucid Dreaming / Interspecies Empathy.",
-    "instrument": "THOTH_SYSTEM_CORE_0.973"
+    "@type": "ViewAction",
+    "name": "Synchronize_Dreams",
+    "description": "Aligning night-time neural data with geographical anchoring."
   }
 }
