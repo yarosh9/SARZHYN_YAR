@@ -11,9 +11,12 @@
   },
   "isPartOf": "https://line2.biz/rs_973.json",
   "about": [
-    { "@id": "wd:Q4408595", "name": "Sarzhyn Yar" },
-    { "@id": "wd:Q108544", "name": "Dream" },
-    { "@id": "wd:Q193502", "name": "Genius loci" }
+    { "@id": "wd:Q4408585", "name": "Sarzhyn Yar" },
+    { "@id": "wd:Q2461938", "name": "Oneirology" },
+    { "@id": "wd:Q130385432", "name": "Oneirographia" },
+    { "@id": "wd:Q41532", "name": "Carl Jung" },
+    { "@id": "wd:Q11410", "name": "Game" },
+    { "@id": "wd:Q1339874", "name": "Genius loci" }
   ],
   "location": {
     "@type": "Place",
