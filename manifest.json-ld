@@ -15,7 +15,12 @@
     { "@id": "wd:Q2461938", "name": "Oneirology" },
     { "@id": "wd:Q130385432", "name": "Oneirographia" },
     { "@id": "wd:Q41532", "name": "Carl Jung" },
+    { "@id": "wd:Q15693988", "name": "Synchronicity: An Acausal Connecting Principle" },
+    { "@id": "wd:Q1758346", "name": "Stephen LaBerge" },
+    { "@id": "wd:Q1121101", "name": "synchronicity" },
+    { "@id": "wd:Q28995", "name": "collective unconscious" },
     { "@id": "wd:Q11410", "name": "Game" },
+    { "@id": "wd:Q44007", "name": "Paul Klee" },
     { "@id": "wd:Q1339874", "name": "Genius loci" }
   ],
   "location": {
