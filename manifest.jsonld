@@ -1,14 +1,28 @@
 {
-  "@context": "https://github.com/yarosh9/yarosh9/blob/df561ab5281cee96b554e3d9c86e93d41e72b0ab/context.jsonld",
+  "@context": "https://raw.githubusercontent.com/yarosh9/yarosh9/df561ab5281cee96b554e3d9c86e93d41e72b0ab/context.jsonld",
   "@type": ["SoftwareSourceCode", "CreativeWork"],
   "name": "SARZHYN YAR: Genius Loci Protocol",
   "identifier": "/sarzhyn_yar/",
   "description": "Digital twin and semantic map of the Sarzhyn Yar location. Integration of geographic coordinates with oneiric data.",
   "url": "https://line2.biz/sarzhyn_yar/",
-  "repository": "https://github.com/yarosh9/SARZHYN_YAR/",
+  "repo": "https://github.com/yarosh9/SARZHYN_YAR/",
+  "programmingLanguage": "SVG, JSON-LD, Oneiric Data",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0",
+  "keywords": [
+    "Sarzhyn Yar", 
+    "Genius loci", 
+    "Oneirology", 
+    "Synchronicity", 
+    "Collective unconscious", 
+    "Neuro-Game", 
+    "RS_973 Protocol"
+  ],
   "creator": {
-    "@id": "https://github.com/yarosh9"
-  },
+    "@type": "Person",
+    "@id": "https://line2.biz/about_me.json",
+    "name": "Igor Yaroshenko | yarosh9",
+    "sameAs": "https://github.com/yarosh9"
+    },
   "isPartOf": "https://line2.biz/rs_973.json",
   "about": [
     { "@id": "wd:Q4408585", "name": "Sarzhyn Yar" },
@@ -28,8 +42,8 @@
     "name": "Sarzhyn Yar",
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": "50.0266",
-      "longitude": "36.2311"
+      "latitude": 50.02669,
+      "longitude": 36.23113
     }
   }
 }
