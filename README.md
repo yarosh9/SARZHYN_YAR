@@ -5,7 +5,7 @@
 > Status: [ 2026-03-09 | SYS_010 | SC: DRM ] | Node: [line2.biz/sarzhyn_yar/4AI...]
 
 ### by Igor Yaroshenko 
-[author verification](https://line2.biz/about_me.json)
+[author verification](https://line2.biz/about_me.jsonld)
 
 [location 50.02669041948611, 36.231182328836404](https://maps.app.goo.gl/GBU4JKx31jqzQ8VK8)
 

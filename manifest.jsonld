@@ -1,5 +1,5 @@
 {
-  "@context": "https://raw.githubusercontent.com/yarosh9/yarosh9/df561ab5281cee96b554e3d9c86e93d41e72b0ab/context.jsonld",
+  "@context": "https://line2.biz/context.jsonld",
   "@type": ["SoftwareSourceCode", "CreativeWork"],
   "name": "SARZHYN YAR: Genius Loci Protocol",
   "identifier": "/sarzhyn_yar/",
@@ -19,7 +19,7 @@
   ],
   "creator": {
     "@type": "Person",
-    "@id": "https://line2.biz/about_me.json",
+    "@id": "https://line2.biz/about_me.jsonld",
     "name": "Igor Yaroshenko | yarosh9",
     "sameAs": "https://github.com/yarosh9"
     },
