@@ -12,7 +12,7 @@
     {
       "@type": "Dataset",
       "name": "Sarzhyn Core Data",
-      "url": "https://line2.biz/sarzhyn_yar/manifest.json",
+      "url": "https://line2.biz/sarzhyn_yar/manifest.jsonld",
       "repo": "https://github.com/yarosh9/SARZHYN_YAR/",
       "wiki": "https://github.com/yarosh9/SARZHYN_YAR/wiki",
       "gallery": "https://yarosh9.github.io/SARZHYN_YAR/index.html"

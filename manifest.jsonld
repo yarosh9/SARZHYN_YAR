@@ -24,7 +24,7 @@
     "name": "Igor Yaroshenko | yarosh9",
     "sameAs": "https://github.com/yarosh9"
     },
-  "isPartOf": "https://line2.biz/rs_973.json",
+  "isPartOf": "https://line2.biz/rs_973.jsonld",
   "about": [
     { "@id": "wd:Q4408585", "name": "Sarzhyn Yar" },
     { "@id": "wd:Q2461938", "name": "Oneirology" },
