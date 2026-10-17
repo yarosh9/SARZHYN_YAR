@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="286.1066mm"
-   height="223.18144mm"
-   viewBox="0 0 286.1066 223.18144"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.3 (1:1.4.3+202512261034+0d15f75042)"
+   inkscape:version="1.4.4 (1:1.4.4+202605061432+dcaf3e7d9e)"
    sodipodi:docname="model_Jung_psy.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,12 +22,12 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:document-units="mm"
-     inkscape:zoom="0.69041105"
-     inkscape:cx="540.25786"
-     inkscape:cy="422.21224"
-     inkscape:window-width="1280"
-     inkscape:window-height="978"
+     inkscape:document-units="px"
+     inkscape:zoom="0.85240694"
+     inkscape:cx="500.93445"
+     inkscape:cy="498.00158"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
@@ -143,319 +143,323 @@
     <path
        id="path334"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:square"
-       d="M -38.100004,36.777084 H 248.0066 V 259.95852 H -38.100004 Z"
-       sodipodi:nodetypes="ccccc" />
+       d="M -38.100004,36.777084 H 961.89999 V 1036.7771 H -38.100004 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="back_white" />
     <text
        xml:space="preserve"
-       style="font-size:11.2889px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-       x="36.700695"
-       y="59.793194"
-       id="text334"><tspan
+       style="font-size:39.457px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="223.34344"
+       y="117.22301"
+       id="text334"
+       inkscape:label="name_dia"><tspan
          sodipodi:role="line"
          id="tspan334"
-         x="36.700695"
-         y="59.793194"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Droid;-inkscape-font-specification:Droid;stroke-width:0.264583">психотипы по Юнгу</tspan></text>
+         x="223.34344"
+         y="117.22301"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.457px;font-family:Droid;-inkscape-font-specification:Droid;stroke-width:0.264583">психотипы по Юнгу</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.185208;stroke-linecap:square;stroke-opacity:1;marker-start:url(#ArrowWide);marker-end:url(#marker339);paint-order:stroke markers fill"
-       d="M -16.61147,151.90225 H 141.49816"
+       style="fill:none;stroke:#000000;stroke-width:0.37795276;stroke-linecap:square;stroke-opacity:1;marker-start:url(#ArrowWide);marker-end:url(#marker339);paint-order:stroke markers fill"
+       d="M 37.006734,439.16265 H 589.63162"
        id="path338" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.185208;stroke-linecap:square;stroke-opacity:1;marker-start:url(#ArrowWide);marker-end:url(#marker339);paint-order:stroke markers fill"
-       d="M 62.443346,72.847435 V 230.95706"
+       style="fill:none;stroke:#000000;stroke-width:0.37795276;stroke-linecap:square;stroke-opacity:1;marker-start:url(#ArrowWide);marker-end:url(#marker339);paint-order:stroke markers fill"
+       d="M 313.31918,162.8502 V 715.47507"
        id="path340" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.449793;stroke-linecap:square;stroke-dasharray:0.264583, 1.5875;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowWide);marker-end:url(#marker339);paint-order:stroke markers fill"
-       d="M 140.54483,73.800701 -15.658227,230.00379"
+       style="fill:none;stroke:#000000;stroke-width:0.37795276;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowWide);marker-end:url(#marker339);paint-order:stroke markers fill"
+       d="M 586.29954,166.18206 40.33851,712.1432"
        id="path343" />
     <text
        xml:space="preserve"
-       style="font-size:4.64783px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-       x="-17.785023"
-       y="138.83725"
+       style="font-size:16.2451px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="32.904934"
+       y="393.49783"
        id="text343"><tspan
          sodipodi:role="line"
-         x="-17.785023"
-         y="138.83725"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64783px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="32.904934"
+         y="393.49783"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2451px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
          id="tspan344">мыслительная</tspan><tspan
          sodipodi:role="line"
-         x="-17.785023"
-         y="145.01122"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64783px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="32.904934"
+         y="415.07706"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2451px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
          id="tspan345">психо-функция</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:4.64783px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-       x="127.53453"
-       y="138.83725"
+       style="font-size:16.2451px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="540.82593"
+       y="393.49783"
        id="text348"><tspan
          sodipodi:role="line"
-         x="127.53453"
-         y="138.83725"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64783px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="540.82593"
+         y="393.49783"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2451px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
          id="tspan347">эмоциональная</tspan><tspan
          sodipodi:role="line"
-         x="127.53453"
-         y="145.01122"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64783px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="540.82593"
+         y="415.07706"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2451px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
          id="tspan348">психо-функция</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:4.64783px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-       x="24.393667"
-       y="75.233383"
+       style="font-size:16.2451px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="180.32791"
+       y="171.18958"
        id="text350"><tspan
          sodipodi:role="line"
-         x="24.393667"
-         y="75.233383"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64783px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="180.32791"
+         y="171.18958"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2451px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
          id="tspan349">сенсорная</tspan><tspan
          sodipodi:role="line"
-         x="24.393667"
-         y="81.407341"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64783px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="180.32791"
+         y="192.76878"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2451px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
          id="tspan350">психо-функция</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:4.64783px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-       x="69.996391"
-       y="225.84256"
+       style="font-size:16.2451px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="339.7186"
+       y="697.59888"
        id="text352"><tspan
-         x="69.996391"
-         y="225.84256"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64783px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="339.7186"
+         y="697.59888"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2451px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
          id="tspan351"
          sodipodi:role="line">интуитивная</tspan><tspan
-         x="69.996391"
-         y="232.01651"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64783px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="339.7186"
+         y="719.17804"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2451px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
          id="tspan352"
          sodipodi:role="line">психо-функция</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:6.19711px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-       x="-17.916723"
-       y="239.6434"
+       style="font-size:21.6601px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="32.444611"
+       y="745.83557"
        id="text354"><tspan
-         x="-17.916723"
-         y="239.6434"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.19711px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="32.444611"
+         y="745.83557"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.6601px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
          id="tspan354"
          sodipodi:role="line">интроверт</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:6.19711px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-       x="130.30006"
-       y="68.332962"
+       style="font-size:21.6601px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="550.492"
+       y="147.07121"
        id="text355"><tspan
-         x="130.30006"
-         y="68.332962"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.19711px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="550.492"
+         y="147.07121"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.6601px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;stroke-width:0.264583"
          id="tspan355"
          sodipodi:role="line">экстроверт</tspan></text>
     <g
        id="g356"
-       transform="matrix(0.29048988,0,0,0.29048988,-826.02016,0.68400866)"
-       style="stroke-width:0.910818">
+       transform="matrix(1.0153204,0,0,1.0153204,-2792.0391,-89.375457)"
+       style="stroke-width:0.260591">
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.637572;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
+         style="fill:none;stroke:#ff0000;stroke-width:0.182414;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
          d="M 2977.6785,496.66071 V 708.38494"
          id="path355"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.637572;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
+         style="fill:none;stroke:#ff0000;stroke-width:0.182414;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
          d="M 3083.5406,602.52282 H 2871.8164"
          id="path356"
          sodipodi:nodetypes="cc" />
     </g>
     <path
        style="fill:#ff0000;fill-opacity:0.152318;stroke:#ff0000;stroke-width:0.185208;stroke-linecap:square;stroke-opacity:1;marker-start:url(#marker359);marker-mid:url(#marker358);marker-end:url(#marker360);paint-order:stroke markers fill"
-       d="m 9.0122647,175.90735 29.9138923,-6.62649 13.184725,6.62649 -13.184725,1.23064 z"
+       d="m 126.56683,523.06529 104.55506,-23.16091 46.08326,23.16091 -46.08326,4.30133 z"
        id="path357"
        sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
-       style="font-size:4.64783px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
-       x="47.013153"
-       y="189.24767"
+       style="font-size:16.2451px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="259.38757"
+       y="569.69238"
        id="text361"><tspan
-         x="47.013153"
-         y="189.24767"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64783px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="259.38757"
+         y="569.69238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2451px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
          id="tspan361"
          sodipodi:role="line">Игорь</tspan></text>
     <g
        id="g363"
-       transform="matrix(0.29048988,0,0,0.29048988,-776.78014,-48.307678)"
-       style="stroke:#00a800;stroke-width:0.910818;stroke-opacity:1">
+       transform="matrix(1.0153204,0,0,1.0153204,-2619.9353,-260.61123)"
+       style="stroke:#00a800;stroke-width:0.260591;stroke-opacity:1">
       <path
-         style="fill:none;stroke:#00a800;stroke-width:0.637572;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
+         style="fill:none;stroke:#00a800;stroke-width:0.182414;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
          d="M 2977.6785,496.66071 V 708.38494"
          id="path362"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;stroke:#00a800;stroke-width:0.637572;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
+         style="fill:none;stroke:#00a800;stroke-width:0.182414;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
          d="M 3083.5406,602.52282 H 2871.8164"
          id="path363"
          sodipodi:nodetypes="cc" />
     </g>
     <path
        style="fill:#00ad00;fill-opacity:0.152318;stroke:#00ac00;stroke-width:0.185208;stroke-linecap:square;stroke-opacity:1;marker-start:url(#marker359);marker-mid:url(#marker358);marker-end:url(#marker360);paint-order:stroke markers fill"
-       d="m 81.084952,126.91567 7.081243,-23.97533 10.652641,23.97533 -10.652641,4.56072 z"
+       d="m 378.47534,351.82953 24.75036,-83.79859 37.23312,83.79859 -37.23312,15.94064 z"
        id="path364"
        sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
-       style="font-size:4.64783px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#009200;fill-opacity:1;stroke-width:0.264583"
-       x="104.71326"
-       y="133.82632"
+       style="font-size:16.2451px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#009200;fill-opacity:1;stroke-width:0.264583"
+       x="461.061"
+       y="375.98367"
        id="text364"><tspan
-         x="104.71326"
-         y="133.82632"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64783px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;fill:#009200;fill-opacity:1;stroke-width:0.264583"
+         x="461.061"
+         y="375.98367"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2451px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;fill:#009200;fill-opacity:1;stroke-width:0.264583"
          id="tspan364"
          sodipodi:role="line">Костя</tspan></text>
     <g
        id="g366"
-       transform="matrix(0.29048988,0,0,0.29048988,-764.65909,-61.098737)"
-       style="stroke:#004eff;stroke-width:0.910818;stroke-opacity:1">
+       transform="matrix(1.0153204,0,0,1.0153204,-2577.5698,-305.31855)"
+       style="stroke:#004eff;stroke-width:0.260591;stroke-opacity:1">
       <path
-         style="fill:none;stroke:#004eff;stroke-width:0.637572;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
+         style="fill:none;stroke:#004eff;stroke-width:0.182414;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
          d="M 2977.6785,496.66071 V 708.38494"
          id="path365"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;stroke:#004eff;stroke-width:0.637572;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
+         style="fill:none;stroke:#004eff;stroke-width:0.182414;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
          d="M 3083.5406,602.52282 H 2871.8164"
          id="path366"
          sodipodi:nodetypes="cc" />
     </g>
     <path
        style="fill:#0085ff;fill-opacity:0.152318;stroke:#0064e7;stroke-width:0.185208;stroke-linecap:square;stroke-opacity:1;marker-start:url(#marker359);marker-mid:url(#marker358);marker-end:url(#marker360);paint-order:stroke markers fill"
-       d="m 79.173325,114.1246 21.113905,-10.90211 8.51638,10.90211 -8.51638,8.55637 z"
+       d="m 371.79382,307.12218 73.79733,-38.10507 29.76646,38.10507 -29.76646,29.90623 z"
        id="path370"
        sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
-       style="font-size:4.64783px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#004aff;fill-opacity:1;stroke-width:0.264583"
-       x="110.74298"
-       y="110.88322"
+       style="font-size:16.2451px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#004aff;fill-opacity:1;stroke-width:0.264583"
+       x="482.13611"
+       y="295.79288"
        id="text370"><tspan
-         x="110.74298"
-         y="110.88322"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64783px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;fill:#004aff;fill-opacity:1;stroke-width:0.264583"
+         x="482.13611"
+         y="295.79288"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2451px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;fill:#004aff;fill-opacity:1;stroke-width:0.264583"
          id="tspan370"
          sodipodi:role="line">Серж</tspan></text>
     <g
        id="g441"
-       transform="matrix(0.26458333,0,0,0.26458333,-689.50367,32.005766)">
+       transform="matrix(1.0783977,0,0,1.0783977,-2833.8772,173.91036)"
+       style="stroke-width:0.245349"
+       inkscape:label="sy_summa_3_types">
       <g
          id="g440"
          transform="matrix(2.0197822,0,0,2.0197894,-3136.027,-762.09754)"
-         style="stroke-width:0.495102">
+         style="stroke-width:0.121473">
         <g
            id="g431"
            transform="translate(198.42238,54.159968)"
-           style="stroke-width:0.495102">
+           style="stroke-width:0.121473">
           <path
-             style="fill:none;stroke:#ff0000;stroke-width:0.346571;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
+             style="fill:none;stroke:#ff0000;stroke-width:0.0850307;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
              d="M 2977.6785,496.66071 V 708.38494"
              id="path430"
              sodipodi:nodetypes="cc" />
           <path
-             style="fill:none;stroke:#ff0000;stroke-width:0.346571;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
+             style="fill:none;stroke:#ff0000;stroke-width:0.0850307;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
              d="M 3083.5406,602.52282 H 2871.8164"
              id="path431"
              sodipodi:nodetypes="cc" />
         </g>
         <path
-           style="fill:#ff0000;fill-opacity:0.152318;stroke:#ff0000;stroke-width:0.346571;stroke-linecap:square;stroke-opacity:1;marker-start:url(#marker359);marker-mid:url(#marker358);marker-end:url(#marker360);paint-order:stroke markers fill"
+           style="fill:#ff0000;fill-opacity:0.152318;stroke:#ff0000;stroke-width:0.0850307;stroke-linecap:square;stroke-opacity:1;marker-start:url(#marker359);marker-mid:url(#marker358);marker-end:url(#marker360);paint-order:stroke markers fill"
            d="m 3072.9887,657.35945 102.9774,-22.81144 45.3879,22.81144 -45.3879,4.23641 z"
            id="path432"
            sodipodi:nodetypes="ccccc" />
       </g>
       <text
          xml:space="preserve"
-         style="font-size:16px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1"
+         style="font-size:16px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.245349"
          x="3364.1157"
          y="618.43829"
          id="text432"><tspan
            x="3364.1157"
            y="618.43829"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;fill:#ff0000;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.245349"
            id="tspan432"
            sodipodi:role="line">Игорь</tspan></text>
       <g
          id="g439"
          transform="matrix(2.0197822,0,0,2.0197894,-3259.181,-664.36664)"
-         style="stroke-width:0.495102">
+         style="stroke-width:0.121473">
         <g
            id="g434"
            transform="translate(259.19623,5.7732915)"
-           style="stroke:#00a800;stroke-width:0.495102;stroke-opacity:1">
+           style="stroke:#00a800;stroke-width:0.121473;stroke-opacity:1">
           <path
-             style="fill:none;stroke:#00a800;stroke-width:0.346571;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
+             style="fill:none;stroke:#00a800;stroke-width:0.0850307;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
              d="M 2977.6785,496.66071 V 708.38494"
              id="path433"
              sodipodi:nodetypes="cc" />
           <path
-             style="fill:none;stroke:#00a800;stroke-width:0.346571;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
+             style="fill:none;stroke:#00a800;stroke-width:0.0850307;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
              d="M 3083.5406,602.52282 H 2871.8164"
              id="path434"
              sodipodi:nodetypes="cc" />
         </g>
         <path
-           style="fill:#00ad00;fill-opacity:0.152318;stroke:#00ac00;stroke-width:0.346571;stroke-linecap:square;stroke-opacity:1;marker-start:url(#marker359);marker-mid:url(#marker358);marker-end:url(#marker360);paint-order:stroke markers fill"
+           style="fill:#00ad00;fill-opacity:0.152318;stroke:#00ac00;stroke-width:0.0850307;stroke-linecap:square;stroke-opacity:1;marker-start:url(#marker359);marker-mid:url(#marker358);marker-end:url(#marker360);paint-order:stroke markers fill"
            d="m 3212.3631,608.97277 24.3769,-82.53412 36.6713,82.53412 -36.6713,15.70013 z"
            id="path435"
            sodipodi:nodetypes="ccccc" />
       </g>
       <text
          xml:space="preserve"
-         style="font-size:16px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#009200;fill-opacity:1"
+         style="font-size:16px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#009200;fill-opacity:1;stroke-width:0.245349"
          x="3364.1318"
          y="662.41693"
          id="text435"><tspan
            x="3364.1318"
            y="662.41693"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;fill:#009200;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;fill:#009200;fill-opacity:1;stroke-width:0.245349"
            id="tspan435"
            sodipodi:role="line">Костя</tspan></text>
       <g
          id="g438"
          transform="matrix(2.0197822,0,0,2.0197894,-3343.4589,-575.42982)"
-         style="stroke-width:0.495102">
+         style="stroke-width:0.121473">
         <g
            id="g437"
            transform="translate(300.92245,-38.259428)"
-           style="stroke:#004eff;stroke-width:0.495102;stroke-opacity:1">
+           style="stroke:#004eff;stroke-width:0.121473;stroke-opacity:1">
           <path
-             style="fill:none;stroke:#004eff;stroke-width:0.346571;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
+             style="fill:none;stroke:#004eff;stroke-width:0.0850307;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
              d="M 2977.6785,496.66071 V 708.38494"
              id="path436"
              sodipodi:nodetypes="cc" />
           <path
-             style="fill:none;stroke:#004eff;stroke-width:0.346571;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
+             style="fill:none;stroke:#004eff;stroke-width:0.0850307;stroke-linecap:square;stroke-opacity:1;paint-order:stroke markers fill"
              d="M 3083.5406,602.52282 H 2871.8164"
              id="path437"
              sodipodi:nodetypes="cc" />
         </g>
         <path
-           style="fill:#0085ff;fill-opacity:0.152318;stroke:#0064e7;stroke-width:0.346571;stroke-linecap:square;stroke-opacity:1;marker-start:url(#marker359);marker-mid:url(#marker358);marker-end:url(#marker360);paint-order:stroke markers fill"
+           style="fill:#0085ff;fill-opacity:0.152318;stroke:#0064e7;stroke-width:0.0850307;stroke-linecap:square;stroke-opacity:1;marker-start:url(#marker359);marker-mid:url(#marker358);marker-end:url(#marker360);paint-order:stroke markers fill"
            d="m 3205.7824,564.94004 72.6838,-37.53009 29.3173,37.53009 -29.3173,29.45496 z"
            id="path438"
            sodipodi:nodetypes="ccccc" />
       </g>
       <text
          xml:space="preserve"
-         style="font-size:16px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#004aff;fill-opacity:1"
+         style="font-size:16px;line-height:1.25;font-family:Angostura;-inkscape-font-specification:'Angostura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#004aff;fill-opacity:1;stroke-width:0.245349"
          x="3364.7078"
          y="639.58765"
          id="text438"><tspan
            x="3364.7078"
            y="639.58765"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;fill:#004aff;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Droid;-inkscape-font-specification:Droid;text-align:start;text-anchor:start;fill:#004aff;fill-opacity:1;stroke-width:0.245349"
            id="tspan438"
            sodipodi:role="line">Серж</tspan></text>
     </g>
