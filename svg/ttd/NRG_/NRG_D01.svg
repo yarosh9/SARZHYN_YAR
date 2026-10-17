@@ -23,7 +23,7 @@
      inkscape:deskcolor="#505050"
      inkscape:zoom="0.45885417"
      inkscape:cx="540.47673"
-     inkscape:cy="960"
+     inkscape:cy="959.99999"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="0"
@@ -350,14 +350,9 @@
        transform="translate(835.325 18.443)"
        id="path33" />
   </g>
-  <text
-     xml:space="preserve"
-     x="441.44672"
-     y="1015.902"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'SVGFont 1';-inkscape-font-specification:'SVGFont 1, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-3px;word-spacing:0;fill:#ff0000;fill-opacity:0.815494;stroke:none"
-     id="text42"><tspan
-       sodipodi:role="line"
-       id="tspan42"
-       x="441.44672"
-       y="1015.902">ace</tspan></text>
+  <path
+     d="m 476.86673,960.03531 c 15.26666,0 27.66666,12.4 27.66666,27.66667 0,15.26662 -12.4,27.66662 -27.66666,27.66662 -15.33334,0 -27.66667,-12.4 -27.66667,-27.66662 0,-15.26667 12.33333,-27.66667 27.66667,-27.66667 z m 0,20.73333 c -3.53334,0 -6.4,2.6 -6.86667,6 -0.0667,0.33334 -0.0667,0.6 -0.0667,0.93334 0,3.46666 2.6,6.4 6,6.86666 0.33334,0.0667 0.6,0.0667 0.93334,0.0667 3.8,0 6.93333,-3.13333 6.93333,-6.93333 0,-3.8 -3.13333,-6.93334 -6.93333,-6.93334 z m 0,3.46667 c 1.86666,0 3.4,1.6 3.4,3.46667 0,1.86666 -1.53334,3.46666 -3.4,3.46666 -1.93334,0 -3.46667,-1.6 -3.46667,-3.46666 0,-1.86667 1.53333,-3.46667 3.46667,-3.46667 z m 90.79993,-24.2 v 55.33329 H 543.4 v -55.33329 z m -31.13333,0 v 55.33329 h -24.2 v -55.33329 z m 43.79994,0 h 45.6 l -22.79999,22.8 z m -4.86667,4.86667 22.8,22.8 -22.8,22.80002 z m 55.33333,0 v 45.60002 l -22.79999,-22.80002 z m -27.66665,27.66666 22.79999,22.79996 h -45.6 z"
+     id="text42"
+     style="font-size:80px;line-height:1.25;font-family:'SVGFont 1';-inkscape-font-specification:'SVGFont 1, Normal';font-variant-ligatures:none;letter-spacing:-3px;word-spacing:0;fill:#ff0000;fill-opacity:0.815494"
+     aria-label="ace" />
 </svg>
