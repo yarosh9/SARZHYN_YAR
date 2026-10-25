@@ -40,6 +40,37 @@ Technical mapping of dream-state architecture and inter-species interaction zone
 
 ---
 
+**Art should be free.**  
+Anyone can take any work they like and print it in any size for personal use. For public or commercial use, please pay attention to the licenses:
+
+* **CC0 1.0** — GRDNT (gradients)
+* **CC BY 4.0** — CRYPTOPHASIA
+* **CC BY-ND 4.0** — LTTR, SARZHYN_YAR, NON-ANTHROPOMORPHIC
+
+---
+
+### 🖨 Print & Digital Copies
+A selection of my works in maximum resolution is available on [Artmajeur](https://www.artmajeur.com/igor-yaroshenko)[cite: 2]. Feel free to order large formats — the quality (17717×17717 px)[cite: 2] allows for it. Digital versions can also be purchased there.  
+*Need an individual file for an ultra-large format? Drop me an email.*
+
+---
+
+### ⏳ Provenance
+**Works live through time.** You can always trace their history and evolution via commit logs in the GitHub repositories[cite: 2].
+
+---
+
+### 🤝 Support Project / Acquire Work
+You can commission a piece or support the project directly. Confirmation of your purchase or patronage will be recorded in the GitHub `README.md` hashes with a link to the specific commit locking in your participation[cite: 2].
+
+* **PayPal:** `yarosh9@gmail.com`
+* **Crypto (ETH / BNB / Polygon):** `0x76de3Fd08cF2e6982656Cb6D9bB8C8d4F06290ed`
+* **Solana (SOL):** `GJb7HSqgiUcQuCicZWfUi38ZtRsaFm3kgpntbwZg18Uh`
+
+*For inquiries regarding acquisitions, custom works, and participation recording, please contact me via email.*
+
+---
+
 [RS_973 Protocol Active: See manifest.json](https://line2.biz/manifest.jsonld)
 
 ---
