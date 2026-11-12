@@ -9,7 +9,7 @@ export default {
       name: 'preset-default',
       params: {
         overrides: {
-          // Отключаем плагины, которые сильно «сплющивают» код в одну строку, если это мешает
+          // Отключаем плагины, которые сильно «сплющивают» код в одну строку
           inlineStyles: {
             onlyMatchedOnce: false,
           },
